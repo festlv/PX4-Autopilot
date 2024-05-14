@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# SpeedyBee F405 specific board sensors init
+#------------------------------------------------------------------------------
+
+board_adc start
+
+icm42688p -s -R 6 start
+spl06 -X start

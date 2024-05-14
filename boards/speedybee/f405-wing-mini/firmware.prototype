@@ -1,0 +1,13 @@
+{
+    "board_id": 1106,
+    "magic": "SPEEDYBEEF405WM",
+    "description": "Firmware for the SpeedyBee F405 Wing Mini board",
+    "image": "",
+    "build_time": 0,
+    "summary": "PX4/SpeedyBeeF405WingMini",
+    "version": "0.1",
+    "image_size": 0,
+    "image_maxsize": 1032192,
+    "git_identity": "",
+    "board_revision": 0
+}
